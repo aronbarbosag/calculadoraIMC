@@ -14,7 +14,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: url("/aula26/assets/img/Hexagon.svg");
+  background: url("/calculadoraIMC/assets/img/Hexagon.svg");
 
   height: calc(100vh - 50px);
   font-family: "Open sans", sans-serif;
